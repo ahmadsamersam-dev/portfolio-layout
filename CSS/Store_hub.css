@@ -4,7 +4,6 @@ html ,body{
   margin: 0px;
   width: 2000px;
  max-width: 200%;
- overflow-x: hidden;
 }
 .start{
   margin: 0px 550px;
@@ -81,7 +80,7 @@ html ,body{
  color: white;
  padding: 5px 250px 5px 300px;
  margin-top: 140px;
- border-left: 430px #2c81b4 solid;
+ border-left: 465px  #2c81b4 solid;
  width: 1000px;
  outline: solid #2c81b4 20px;
 }
