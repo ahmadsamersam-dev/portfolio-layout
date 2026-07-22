@@ -1,0 +1,99 @@
+html ,body{
+  background-color: #93E3FD;
+  place-items: center;
+  margin: 0px;
+  width: 2000px;
+ max-width: 200%;
+ overflow-x: hidden;
+}
+.start{
+  margin: 0px 550px;
+  padding: 0px 50px;
+  width: 500px;
+  border: 10px #2c81b4 solid;
+  background-color: #93E3FD;
+}
+.start .title{
+  font-size: 50px;
+  color: #2c81b4;
+  text-align: center;
+}
+.start .photo{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  bottom: 10px;
+  vertical-align: middle;
+}
+.history{
+  background: #2c81b4;
+  color: white;
+  padding: 5px 250px 5px 10px;
+  margin: 30px;
+  margin-left: 300px;
+  height: 250px;
+  width: 1000px;
+}
+.history .title{
+  font-size: 30px;
+  position: relative;
+  left: 500px;
+}
+.history .photo{
+  position: relative;
+  right: 5px;
+}
+.history .text{
+  position: relative;
+bottom: 170px;
+left: 250px;
+font-size: 20px;
+}
+.service {
+  background: #2c81b4;
+color: white;
+padding: 5px 250px 5px 10px;
+margin: 30px;
+margin-left: 300px;
+height: 250px;
+width: 1000px;
+}
+.service .title
+{
+font-size: 30px;
+position: relative;
+left: 500px;
+}
+.service .photo{
+  height: 150px;
+  width: 250px;
+  margin: 5px;
+  position: relative;
+  left: 990px;
+}
+.service .products{
+position: relative;
+bottom: 185px;
+font-size: 20px;
+}
+footer{
+  background: #2c81b4;
+}
+.content{
+  background: #2c81b4;
+color: white;
+padding: 5px 250px 5px 10px;
+margin: 10px;
+padding-bottom: 30px;
+padding-left: 300px;
+height: 80px;;
+border-left: 430px #2c81b4 solid;
+width: 1000px;
+
+}
+.content div{
+  position: relative;
+  top: 20px;
+  right: 445px;
+  font-size: 30px;
+}
